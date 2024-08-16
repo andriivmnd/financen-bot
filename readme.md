@@ -30,4 +30,4 @@ We welcome any contributions to the project! If you have ideas on how to improve
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at: your_email@example.com.
+If you have any questions or suggestions, feel free to contact us at: andrii.shmihol@gmail.com.
